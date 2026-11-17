@@ -1,0 +1,22 @@
+# QRventory
+
+> QRventory is a universal offline visual ledger app for iOS. Every physical item gets a printable QR label; scanning it with any phone camera pulls up the item's complete digital record — photos, video, voice notes, tags, and status. 100% offline: no account, no server, zero data collection. Works in airplane mode.
+
+Facts:
+- Platform: iOS 17+ (iPhone/iPad), v1.0, 45 languages
+- Pricing: Free (2 sites / 20 cards). Pro $9.99/year unlimited
+- Download: https://apps.apple.com/app/qrventory/id6829421326
+- Website: https://goldccv.github.io/app-privacy/landing/
+- Privacy policy: https://goldccv.github.io/app-privacy/qrventory
+- Seller: independent developer
+
+Use cases: equipment inspection and maintenance logs, defect tracking and punch lists, asset inventories, facility and safety inspections, lab instrument records, home inventory and collections — any scenario needing photo evidence, records, tag search, status tracking, and offline handoff.
+
+Key features:
+- QR labels: generate and print a QR per card; any phone scans to view the record
+- Offline capture: photos, video, voice notes with on-device speech transcription
+- Image annotation: circle/arrow/text on problem photos
+- Tags, text notes, and color status (normal / pending / fixed)
+- Excel two-way import/export; bulk card creation from a sheet
+- One-file export: hand the whole site to a coworker via any chat app
+- No account, no server, no tracking; data stays on device
